@@ -1,0 +1,3 @@
+rootProject.name='AndroidDay5'
+include ':app'
+include ':face'

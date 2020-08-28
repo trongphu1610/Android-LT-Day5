@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DonaFace">
+        <attr name="ddona_radius" format="dimension" />
+        <attr name="ddona_eyes_color" format="color"/>
+        <attr name="ddona_mouth_color" format="color"/>
+    </declare-styleable>
+</resources>
